@@ -1,0 +1,15 @@
+python3
+tkinter
+messagebox
+ttk
+qrcode
+tkcalendar
+datetime
+random
+os
+opencv-python
+pyzbar
+pandas
+fpdf
+pillow
+sqlite3
